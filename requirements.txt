@@ -1,0 +1,8 @@
+pandas
+stackview
+dask
+numpy
+dask-jobqueue
+scikit-image
+torch
+cellpose
